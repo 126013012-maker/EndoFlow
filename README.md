@@ -41,19 +41,19 @@ AI tools were used as supporting resources during development, particularly for 
 - Dynamic web interface development
 - Healthcare informatics
 
-  ## Application Screenshots
+## Application Screenshots
 
 ### 1. Homepage – Symptom Selection
-![EndoFlow Homepage](screenshots/Homepage.png)
+[View Homepage Screenshot](screenshots/Homepage.png)
 
 ### 2. Initial Lab Tests
-![Initial Lab Tests](screenshots/Initial%20Lab%20Tests.png)
+[View Initial Lab Tests Screenshot](screenshots/Initial%20Lab%20Tests.png)
 
 ### 3. Diagnosis Results – 26 Disorders
-![Diagnosis Results](screenshots/Diagnosis%20results%20(2).png)
+[View Diagnosis Results Screenshot](screenshots/Diagnosis%20results%20(2).png)
 
-### 4. Diagnosis Results – Additional View
-![Additional Diagnosis Results](screenshots/Diagnosis%20results.png)
+### 4. Additional Diagnosis Results
+[View Additional Diagnosis Screenshot](screenshots/Diagnosis%20results.png)
 
 ## Disclaimer
 
